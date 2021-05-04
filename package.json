@@ -9,7 +9,7 @@
     "react-loading": "^2.0.3",
     "react-modal": "^2.3.2",
     "react-redux": "^5.0.6",
-    "react-scripts": "1.0.14",
+    "react-scripts": "4.0.3",
     "redux": "^3.7.2"
   },
   "scripts": {

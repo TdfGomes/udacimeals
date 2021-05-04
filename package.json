@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "react": "^16.0.0",
-    "react-dom": "^16.0.1",
+    "react-dom": "^16.13.0",
     "react-icons": "^2.2.5",
     "react-loading": "^2.0.3",
     "react-modal": "^2.3.2",
